@@ -1,0 +1,607 @@
+{
+    "products": [
+        {
+            "id": "LAP001",
+            "category": "Laptop",
+            "brand": "Dell",
+            "name": "Dell XPS 15 (9530)",
+            "description": "Powerful and portable laptop with a stunning InfinityEdge display, ideal for creators and professionals.",
+            "price": 1899.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=Dell+XPS+15",
+            "features": [
+                "15.6-inch 3.5K OLED Touch Display",
+                "Intel Core i7-13700H Processor",
+                "16GB DDR5 RAM",
+                "1TB NVMe SSD",
+                "NVIDIA GeForce RTX 4050",
+                "Windows 11 Pro"
+            ],
+            "stock": 75,
+            "rating": 4.8
+        },
+        {
+            "id": "LAP002",
+            "category": "Laptop",
+            "brand": "HP",
+            "name": "HP Spectre x360 14",
+            "description": "Versatile 2-in-1 laptop with a premium design, excellent performance, and long battery life.",
+            "price": 1449.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/DDD/555?text=HP+Spectre+x360",
+            "features": [
+                "13.5-inch WUXGA+ Touch Display",
+                "Intel Core Ultra 7 155H",
+                "16GB LPDDR5 RAM",
+                "1TB PCIe NVMe SSD",
+                "Intel Arc Graphics",
+                "Windows 11 Home",
+                "Stylus Included"
+            ],
+            "stock": 110,
+            "rating": 4.7
+        },
+        {
+            "id": "LAP003",
+            "category": "Laptop",
+            "brand": "Lenovo",
+            "name": "Lenovo Yoga Slim 7 Pro",
+            "description": "Thin and light laptop with a high-resolution display and strong performance for productivity.",
+            "price": 1199.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/CCC/777?text=Lenovo+Yoga+Slim",
+            "features": [
+                "14-inch 2.8K IPS Display (90Hz)",
+                "AMD Ryzen 7 7840HS Processor",
+                "16GB LPDDR5 RAM",
+                "1TB SSD M.2",
+                "AMD Radeon 780M Graphics",
+                "Windows 11 Home"
+            ],
+            "stock": 90,
+            "rating": 4.6
+        },
+        {
+            "id": "LAP004",
+            "category": "Laptop",
+            "brand": "Asus",
+            "name": "ASUS ROG Zephyrus G14",
+            "description": "Compact and powerful gaming laptop with an AniMe Matrix display option.",
+            "price": 1649.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/AAA/FFF?text=ASUS+ROG+G14",
+            "features": [
+                "14-inch QHD+ 165Hz Display",
+                "AMD Ryzen 9 7940HS Processor",
+                "16GB DDR5 RAM",
+                "1TB PCIe 4.0 SSD",
+                "NVIDIA GeForce RTX 4060",
+                "Windows 11 Home"
+            ],
+            "stock": 55,
+            "rating": 4.7
+        },
+        {
+            "id": "MAC001",
+            "category": "MacBook",
+            "brand": "Apple",
+            "name": "Apple MacBook Air 13-inch (M2)",
+            "description": "Ultra-portable laptop with the power-efficient M2 chip, perfect for everyday tasks and travel.",
+            "price": 1099.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/999/FFF?text=MacBook+Air+M2",
+            "features": [
+                "13.6-inch Liquid Retina Display",
+                "Apple M2 Chip (8-core CPU, 8-core GPU)",
+                "8GB Unified Memory",
+                "256GB SSD Storage",
+                "macOS Sonoma",
+                "1080p FaceTime HD Camera"
+            ],
+            "stock": 150,
+            "rating": 4.9
+        },
+        {
+            "id": "MAC002",
+            "category": "MacBook",
+            "brand": "Apple",
+            "name": "Apple MacBook Pro 14-inch (M3 Pro)",
+            "description": "Professional laptop delivering exceptional performance and battery life with the M3 Pro chip.",
+            "price": 1999.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/777/FFF?text=MacBook+Pro+M3+Pro",
+            "features": [
+                "14.2-inch Liquid Retina XDR Display",
+                "Apple M3 Pro Chip (11-core CPU, 14-core GPU)",
+                "18GB Unified Memory",
+                "512GB SSD Storage",
+                "macOS Sonoma",
+                "ProMotion Technology"
+            ],
+            "stock": 80,
+            "rating": 4.9
+        },
+        {
+            "id": "MAC003",
+            "category": "MacBook",
+            "brand": "Apple",
+            "name": "Apple MacBook Pro 16-inch (M3 Max)",
+            "description": "The ultimate professional laptop with groundbreaking performance for the most demanding workflows.",
+            "price": 3499.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/555/FFF?text=MacBook+Pro+M3+Max",
+            "features": [
+                "16.2-inch Liquid Retina XDR Display",
+                "Apple M3 Max Chip (14-core CPU, 30-core GPU)",
+                "36GB Unified Memory",
+                "1TB SSD Storage",
+                "macOS Sonoma",
+                "Up to 22 hours battery life"
+            ],
+            "stock": 40,
+            "rating": 5.0
+        },
+        {
+            "id": "MOB001",
+            "category": "Mobile Phone",
+            "brand": "Apple",
+            "name": "iPhone 15 Pro",
+            "description": "The latest iPhone featuring the A17 Pro chip, Titanium design, and an advanced camera system.",
+            "price": 999.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x600/DDE/333?text=iPhone+15+Pro",
+            "features": [
+                "6.1-inch Super Retina XDR Display",
+                "A17 Pro Chip",
+                "Pro Camera System (48MP Main)",
+                "Titanium Build",
+                "USB-C Port",
+                "iOS 17"
+            ],
+            "stock": 250,
+            "rating": 4.8
+        },
+        {
+            "id": "MOB002",
+            "category": "Mobile Phone",
+            "brand": "Samsung",
+            "name": "Samsung Galaxy S24 Ultra",
+            "description": "Premium Android phone with integrated S Pen, powerful cameras, and Galaxy AI features.",
+            "price": 1299.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x600/CCD/444?text=Galaxy+S24+Ultra",
+            "features": [
+                "6.8-inch Dynamic AMOLED 2X QHD+",
+                "Snapdragon 8 Gen 3 for Galaxy",
+                "200MP Wide Camera",
+                "Integrated S Pen",
+                "Titanium Frame",
+                "Android 14"
+            ],
+            "stock": 180,
+            "rating": 4.7
+        },
+        {
+            "id": "MOB003",
+            "category": "Mobile Phone",
+            "brand": "Google",
+            "name": "Google Pixel 8 Pro",
+            "description": "Google's flagship phone with exceptional AI camera features and a smooth user experience.",
+            "price": 999.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x600/BBD/555?text=Pixel+8+Pro",
+            "features": [
+                "6.7-inch Super Actua LTPO OLED Display",
+                "Google Tensor G3 Chip",
+                "Triple Rear Camera System (50MP Main)",
+                "Best Take, Magic Editor AI features",
+                "7 Years of OS Updates",
+                "Android 14"
+            ],
+            "stock": 120,
+            "rating": 4.6
+        },
+        {
+            "id": "MOB004",
+            "category": "Mobile Phone",
+            "brand": "OnePlus",
+            "name": "OnePlus 12",
+            "description": "Flagship killer phone known for its speed, fast charging, and smooth display.",
+            "price": 799.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x600/AAD/666?text=OnePlus+12",
+            "features": [
+                "6.82-inch QHD+ ProXDR Display (120Hz)",
+                "Snapdragon 8 Gen 3",
+                "50MP Hasselblad Camera for Mobile",
+                "100W SUPERVOOC Charging",
+                "OxygenOS based on Android 14",
+                "Aqua Touch Display"
+            ],
+            "stock": 95,
+            "rating": 4.7
+        },
+        {
+            "id": "COM001",
+            "category": "Desktop Computer",
+            "brand": "Apple",
+            "name": "Apple iMac 24-inch (M3)",
+            "description": "All-in-one desktop with a stunning 4.5K Retina display and the powerful M3 chip.",
+            "price": 1299.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x500/99C/333?text=iMac+24+M3",
+            "features": [
+                "24-inch 4.5K Retina Display",
+                "Apple M3 Chip (8-core CPU, 8-core GPU)",
+                "8GB Unified Memory",
+                "256GB SSD Storage",
+                "macOS Sonoma",
+                "Magic Keyboard & Magic Mouse included",
+                "Available in multiple colors"
+            ],
+            "stock": 100,
+            "rating": 4.9
+        },
+        {
+            "id": "COM002",
+            "category": "Desktop Computer",
+            "brand": "Dell",
+            "name": "Dell Alienware Aurora R16",
+            "description": "High-performance gaming desktop with a focus on thermal management and powerful components.",
+            "price": 2199.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/500x600/BBA/555?text=Alienware+R16",
+            "features": [
+                "Intel Core i7-14700KF Processor",
+                "32GB DDR5 RAM",
+                "1TB NVMe SSD",
+                "NVIDIA GeForce RTX 4070 Ti",
+                "Windows 11 Home",
+                "Liquid Cooling Option"
+            ],
+            "stock": 60,
+            "rating": 4.8
+        },
+        {
+            "id": "COM003",
+            "category": "Desktop Computer",
+            "brand": "HP",
+            "name": "HP Envy All-in-One 34-inch",
+            "description": "Expansive all-in-one PC with a wide 5K display, perfect for multitasking and creative work.",
+            "price": 1999.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x500/ABC/456?text=HP+Envy+AIO+34",
+            "features": [
+                "34-inch WUHD (5K) IPS Display",
+                "Intel Core i7-12700 Processor",
+                "16GB DDR4 RAM",
+                "1TB NVMe SSD",
+                "NVIDIA GeForce RTX 3050 (Optional)",
+                "Windows 11 Pro",
+                "Detachable Magnetic Camera"
+            ],
+            "stock": 70,
+            "rating": 4.7
+        },
+        {
+            "id": "SMW001",
+            "category": "Smartwatch",
+            "brand": "Apple",
+            "name": "Apple Watch Series 9",
+            "description": "The essential Apple Watch with advanced health features, safety functions, and a brighter display.",
+            "price": 399.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/300x300/EAC/123?text=Apple+Watch+9",
+            "features": [
+                "S9 SiP Chip",
+                "Brighter Always-On Retina Display",
+                "Double Tap Gesture",
+                "Blood Oxygen & ECG Apps",
+                "Crash Detection & Fall Detection",
+                "watchOS 10"
+            ],
+            "stock": 300,
+            "rating": 4.9
+        },
+        {
+            "id": "SMW002",
+            "category": "Smartwatch",
+            "brand": "Samsung",
+            "name": "Samsung Galaxy Watch 6 Classic",
+            "description": "Stylish smartwatch with a rotating bezel, comprehensive health tracking, and Wear OS Powered by Samsung.",
+            "price": 399.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/300x300/DAA/456?text=Galaxy+Watch+6",
+            "features": [
+                "Rotating Bezel",
+                "Super AMOLED Display",
+                "BioActive Sensor (ECG, BIA, Heart Rate)",
+                "Sleep Tracking",
+                "Wear OS Powered by Samsung",
+                "Stainless Steel Case"
+            ],
+            "stock": 220,
+            "rating": 4.7
+        },
+        {
+            "id": "SMW003",
+            "category": "Smartwatch",
+            "brand": "Google",
+            "name": "Google Pixel Watch 2",
+            "description": "Elegant smartwatch combining Google's helpfulness with Fitbit's health and fitness tracking.",
+            "price": 349.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/300x300/CBA/789?text=Pixel+Watch+2",
+            "features": [
+                "Wear OS 4",
+                "Fitbit Health & Fitness Tracking",
+                "Improved Performance & Battery Life",
+                "New Safety Features (Safety Check)",
+                "ECG & Afib Detection",
+                "Stress Management"
+            ],
+            "stock": 150,
+            "rating": 4.5
+        },
+        {
+            "id": "SMW004",
+            "category": "Smartwatch",
+            "brand": "Garmin",
+            "name": "Garmin Fenix 7 Pro",
+            "description": "Premium multisport GPS watch with solar charging, advanced training metrics, and built-in flashlight.",
+            "price": 799.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/300x300/BAC/ABC?text=Garmin+Fenix+7+Pro",
+            "features": [
+                "Solar Charging Lens (Pro Solar models)",
+                "Built-in LED Flashlight",
+                "Advanced Training Metrics (Hill Score, Endurance Score)",
+                "Multi-Band GPS",
+                "Touchscreen & Buttons",
+                "Up to 22 days battery life (smartwatch mode)"
+            ],
+            "stock": 85,
+            "rating": 4.8
+        },
+        {
+            "id": "TAB001",
+            "category": "Tablet",
+            "brand": "Apple",
+            "name": "iPad Pro 12.9-inch (M2)",
+            "description": "The ultimate iPad experience with the powerful M2 chip, Liquid Retina XDR display, and pro features.",
+            "price": 1099.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/500x400/DEF/123?text=iPad+Pro+12.9",
+            "features": [
+                "12.9-inch Liquid Retina XDR Display",
+                "Apple M2 Chip",
+                "Pro Camera System",
+                "LiDAR Scanner",
+                "Apple Pencil Hover",
+                "iPadOS 17"
+            ],
+            "stock": 130,
+            "rating": 4.9
+        },
+        {
+            "id": "TAB002",
+            "category": "Tablet",
+            "brand": "Samsung",
+            "name": "Samsung Galaxy Tab S9 Ultra",
+            "description": "Massive and powerful Android tablet with a stunning AMOLED display and S Pen included.",
+            "price": 1199.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/500x400/CDE/456?text=Galaxy+Tab+S9+Ultra",
+            "features": [
+                "14.6-inch Dynamic AMOLED 2X Display",
+                "Snapdragon 8 Gen 2 for Galaxy",
+                "S Pen Included",
+                "Armor Aluminum Frame",
+                "Quad Speakers Tuned by AKG",
+                "Android 13 (Upgradable)"
+            ],
+            "stock": 90,
+            "rating": 4.8
+        },
+        {
+            "id": "TAB003",
+            "category": "Tablet",
+            "brand": "Microsoft",
+            "name": "Microsoft Surface Pro 9",
+            "description": "Versatile 2-in-1 device combining laptop power with tablet flexibility, running Windows 11.",
+            "price": 999.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/500x400/BCD/789?text=Surface+Pro+9",
+            "features": [
+                "13-inch PixelSense Flow Display (120Hz)",
+                "Intel Core i5/i7 (12th Gen) or Microsoft SQ3 (ARM)",
+                "Up to 32GB RAM",
+                "Up to 1TB SSD",
+                "Windows 11",
+                "Optional Surface Slim Pen 2 & Signature Keyboard"
+            ],
+            "stock": 115,
+            "rating": 4.6
+        },
+        {
+            "id": "HDP001",
+            "category": "Headphones",
+            "brand": "Sony",
+            "name": "Sony WH-1000XM5",
+            "description": "Industry-leading noise-canceling headphones with exceptional sound quality and comfort.",
+            "price": 399.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x400/ABC/DEF?text=Sony+WH1000XM5",
+            "features": [
+                "Industry-Leading Noise Cancellation",
+                "Integrated Processor V1",
+                "Precise Voice Pickup Technology",
+                "Up to 30 Hours Battery Life",
+                "Multipoint Connection",
+                "Lightweight Design"
+            ],
+            "stock": 200,
+            "rating": 4.9
+        },
+        {
+            "id": "HDP002",
+            "category": "Headphones",
+            "brand": "Bose",
+            "name": "Bose QuietComfort Ultra Headphones",
+            "description": "Premium noise-canceling headphones with immersive audio and unparalleled comfort.",
+            "price": 429.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x400/BCA/EF1?text=Bose+QC+Ultra",
+            "features": [
+                "World-Class Noise Cancellation",
+                "Bose Immersive Audio",
+                "CustomTune Technology",
+                "Up to 24 Hours Battery Life",
+                "Aware Mode",
+                "Plush Materials"
+            ],
+            "stock": 160,
+            "rating": 4.8
+        },
+        {
+            "id": "HDP003",
+            "category": "Headphones",
+            "brand": "Apple",
+            "name": "AirPods Pro (2nd generation)",
+            "description": "Wireless earbuds with enhanced Active Noise Cancellation, Adaptive Transparency, and Personalized Spatial Audio.",
+            "price": 249.00,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x400/CAB/F1E?text=AirPods+Pro+2",
+            "features": [
+                "H2 Apple Chip",
+                "Active Noise Cancellation (up to 2x more)",
+                "Adaptive Transparency",
+                "Personalized Spatial Audio",
+                "MagSafe Charging Case with Speaker & U1 Chip",
+                "Sweat and Water Resistant (IPX4)"
+            ],
+            "stock": 400,
+            "rating": 4.7
+        },
+        {
+            "id": "CON001",
+            "category": "Gaming Console",
+            "brand": "Sony",
+            "name": "PlayStation 5 (Slim)",
+            "description": "Next-generation gaming console with ultra-fast SSD, immersive DualSense controller, and stunning 4K graphics.",
+            "price": 499.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/0070D1/FFFFFF?text=PS5+Slim",
+            "features": [
+                "Ultra-High Speed SSD",
+                "Ray Tracing Support",
+                "4K-TV Gaming (Up to 120Hz)",
+                "HDR Technology",
+                "DualSense Wireless Controller (Haptic Feedback, Adaptive Triggers)",
+                "Tempest 3D AudioTech"
+            ],
+            "stock": 120,
+            "rating": 4.9
+        },
+        {
+            "id": "CON002",
+            "category": "Gaming Console",
+            "brand": "Microsoft",
+            "name": "Xbox Series X",
+            "description": "The most powerful Xbox ever, built for speed, performance, and compatibility.",
+            "price": 499.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/400x600/107C10/FFFFFF?text=Xbox+Series+X",
+            "features": [
+                "Custom 1TB NVME SSD",
+                "True 4K Gaming (Up to 120 FPS)",
+                "DirectX Raytracing",
+                "Xbox Velocity Architecture",
+                "Quick Resume",
+                "Backward Compatibility (Thousands of games)"
+            ],
+            "stock": 110,
+            "rating": 4.8
+        },
+        {
+            "id": "CON003",
+            "category": "Gaming Console",
+            "brand": "Nintendo",
+            "name": "Nintendo Switch - OLED Model",
+            "description": "Versatile hybrid console with a vibrant 7-inch OLED screen for handheld and TV play.",
+            "price": 349.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x400/E60012/FFFFFF?text=Switch+OLED",
+            "features": [
+                "7-inch OLED Screen",
+                "Three Modes: TV, Tabletop, Handheld",
+                "Detachable Joy-Con Controllers",
+                "64 GB Internal Storage",
+                "Enhanced Audio (Handheld/Tabletop)",
+                "Wide Adjustable Stand"
+            ],
+            "stock": 250,
+            "rating": 4.7
+        },
+        {
+            "id": "MON001",
+            "category": "Monitor",
+            "brand": "Dell",
+            "name": "Dell UltraSharp U2723QE",
+            "description": "27-inch 4K UHD monitor with IPS Black technology for outstanding color and contrast, ideal for professionals.",
+            "price": 579.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x500/BFC/333?text=Dell+U2723QE",
+            "features": [
+                "27-inch 4K UHD (3840 x 2160)",
+                "IPS Black Technology",
+                "98% DCI-P3 Color Gamut",
+                "VESA DisplayHDR 400",
+                "USB-C Hub (90W Power Delivery)",
+                "ComfortView Plus (Low Blue Light)"
+            ],
+            "stock": 95,
+            "rating": 4.8
+        },
+        {
+            "id": "MON002",
+            "category": "Monitor",
+            "brand": "LG",
+            "name": "LG UltraGear 27GP850-B",
+            "description": "27-inch QHD gaming monitor with high refresh rate and fast response time for smooth gameplay.",
+            "price": 399.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/600x500/A0B/444?text=LG+27GP850-B",
+            "features": [
+                "27-inch QHD (2560 x 1440) Nano IPS",
+                "165Hz Refresh Rate (O/C 180Hz)",
+                "1ms (GtG) Response Time",
+                "NVIDIA G-SYNC Compatible",
+                "AMD FreeSync Premium",
+                "HDR10 Support"
+            ],
+            "stock": 130,
+            "rating": 4.7
+        },
+        {
+            "id": "MON003",
+            "category": "Monitor",
+            "brand": "Samsung",
+            "name": "Samsung Odyssey Neo G9 (G95NC)",
+            "description": "Expansive 57-inch Dual UHD curved gaming monitor with Quantum Mini-LED technology.",
+            "price": 2499.99,
+            "currency": "USD",
+            "imageUrl": "https://placehold.co/700x400/9AB/555?text=Samsung+Neo+G9",
+            "features": [
+                "57-inch Dual UHD (7680x2160)",
+                "Quantum Mini-LED (Quantum HDR 2000)",
+                "240Hz Refresh Rate",
+                "1ms (GtG) Response Time",
+                "1000R Curvature",
+                "AMD FreeSync Premium Pro"
+            ],
+            "stock": 30,
+            "rating": 4.9
+        }
+    ]
+}
