@@ -17,15 +17,15 @@ const SingleProduct = ({ oneProduct }) => {
         <IoIosStar /><IoIosStar /><IoIosStarHalf /><IoIosStarOutline />
     </>
     return (
-        <div className='mt-4'>
+        <div>
             <div className='relative text-center pt-6 md:pt-12 pb-50 md:pb-56 bg-[#9538E2] rounded-lg'>
-                <div className=' md:w-8/12 mx-auto space-y-2 md:space-y-4 text-white  '>
+                <div className=' md:w-8/12 mx-auto space-y-2 md:space-y-4 text-white  px-2'>
                     <h2 className='text-2xl md:text-4xl font-semibold'>Product Detail</h2>
                     <p className='text-sm md:text-base'>Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all! This Product Unique id Number: {id}
                     </p>
                     <button onClick={() => navigate(-1)} className='btn rounded-4xl'>Back</button>
                 </div>
-                <div className='absolute bg-white top-42 md:top-56 left-0 right-0 mx-auto w-10/12 flex flex-col md:flex-row items-center gap-4 p-2 md:p-6 rounded-xl'>
+                <div className='absolute bg-white top-56 md:top-56 left-0 right-0 mx-auto w-10/12 flex flex-col md:flex-row items-center gap-4 p-2 md:p-6 rounded-xl'>
                     <div className='bg-[#ECECEC] p-4 rounded-xl'>
                         <img className='h-54 md:w-74 mx-auto object-cover' src={imageUrl} alt="" />
                     </div>

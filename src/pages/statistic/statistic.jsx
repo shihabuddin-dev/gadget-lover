@@ -1,9 +1,10 @@
 import React from 'react';
+import StatisticTop from '../../components/statisticTop/StatisticTop';
 
 const statistic = () => {
     return (
-        <div>
-            <p>page of statistic</p>
+        <div className='mt-4'>
+            <StatisticTop></StatisticTop>
         </div>
     );
 };

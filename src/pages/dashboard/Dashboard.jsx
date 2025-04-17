@@ -1,9 +1,11 @@
 import React from 'react';
+import DashboardTop from '../../components/dashboardTop/DashboardTop';
 
 const Dashboard = () => {
+
     return (
-        <div>
-            <p>Dashboard</p>
+        <div className='mt-4'>
+            <DashboardTop></DashboardTop>
         </div>
     );
 };
