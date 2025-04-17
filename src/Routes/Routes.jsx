@@ -7,6 +7,7 @@ import statistic from '../pages/statistic/statistic';
 import Dashboard from '../pages/dashboard/Dashboard';
 import axios from "axios";
 import { Suspense } from "react";
+import ViewDetails from "../components/viewDetails/ViewDetails";
 const productPromise = axios.get('products.json')
 const loader = <>
     <div className="mt-6 flex ap-4 justify-center items-center w-full h-full">
@@ -26,7 +27,13 @@ export const router = createBrowserRouter([
                 </Suspense>
             },
             { path: 'statistic', Component: statistic },
-            { path: 'dashboard', Component: Dashboard }
+            { path: 'dashboard', Component: Dashboard },
+            {
+                path: '/view-details/:productId',
+                element: <Suspense fallback={loader}>
+                    <ViewDetails productPromise={productPromise}></ViewDetails>
+                </Suspense>
+            }
         ]
     },
 ]);
