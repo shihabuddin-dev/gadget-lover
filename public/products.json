@@ -8,7 +8,7 @@
             "description": "Powerful and portable laptop with a stunning InfinityEdge display, ideal for creators and professionals.",
             "price": 1899.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/EEE/31343C?text=Dell+XPS+15",
+            "imageUrl": "https://i.postimg.cc/cCNzTMDM/images.jpg",
             "features": [
                 "15.6-inch 3.5K OLED Touch Display",
                 "Intel Core i7-13700H Processor",
@@ -18,7 +18,24 @@
                 "Windows 11 Pro"
             ],
             "stock": 75,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "CreativePro",
+                    "rating": 5,
+                    "comment": "The OLED display is absolutely breathtaking, perfect for photo and video editing. Performance is top-notch, handles demanding software with ease. Worth the investment."
+                },
+                {
+                    "reviewer": "Mike R.",
+                    "rating": 4,
+                    "comment": "Great build quality and fantastic screen. Gets a bit warm under heavy load, but manageable. Battery life is decent for the power."
+                },
+                {
+                    "reviewer": "Sarah Chen",
+                    "rating": 5,
+                    "comment": "Sleek design, lightweight for a 15-inch, and incredibly powerful. The keyboard and trackpad are excellent. My go-to for work and some light gaming."
+                }
+            ]
         },
         {
             "id": "LAP002",
@@ -28,7 +45,7 @@
             "description": "Versatile 2-in-1 laptop with a premium design, excellent performance, and long battery life.",
             "price": 1449.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/DDD/555?text=HP+Spectre+x360",
+            "imageUrl": "https://i.postimg.cc/vZmNPmvj/download.jpg",
             "features": [
                 "13.5-inch WUXGA+ Touch Display",
                 "Intel Core Ultra 7 155H",
@@ -39,7 +56,24 @@
                 "Stylus Included"
             ],
             "stock": 110,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "Anna K.",
+                    "rating": 5,
+                    "comment": "Absolutely gorgeous design, feels very premium. The 2-in-1 flexibility is fantastic, and the included stylus works great. Perfect for notes and presentations."
+                },
+                {
+                    "reviewer": "BusinessTraveller",
+                    "rating": 4,
+                    "comment": "Excellent battery life and very portable. The screen is sharp and bright. Sometimes the fan noise is noticeable, but overall a solid machine."
+                },
+                {
+                    "reviewer": "David L.",
+                    "rating": 5,
+                    "comment": "Performance with the new Intel chip is impressive for such a thin laptop. Handles multitasking well and the speakers are surprisingly good."
+                }
+            ]
         },
         {
             "id": "LAP003",
@@ -49,7 +83,7 @@
             "description": "Thin and light laptop with a high-resolution display and strong performance for productivity.",
             "price": 1199.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/CCC/777?text=Lenovo+Yoga+Slim",
+            "imageUrl": "https://i.postimg.cc/0Q7W6K86/images.jpg",
             "features": [
                 "14-inch 2.8K IPS Display (90Hz)",
                 "AMD Ryzen 7 7840HS Processor",
@@ -59,7 +93,24 @@
                 "Windows 11 Home"
             ],
             "stock": 90,
-            "rating": 4.6
+            "rating": 4.6,
+            "reviews": [
+                {
+                    "reviewer": "StudentGamer",
+                    "rating": 5,
+                    "comment": "Incredible value! The Ryzen processor is a beast, handles my coding, assignments, and even some decent gaming. The 90Hz screen is super smooth."
+                },
+                {
+                    "reviewer": "Jessica P.",
+                    "rating": 4,
+                    "comment": "Very thin and light, easy to carry around. Display quality is great for the price. Wish the webcam was a bit better, but it's acceptable."
+                },
+                {
+                    "reviewer": "Mark T.",
+                    "rating": 4,
+                    "comment": "Solid build, good keyboard, and strong performance. Runs quiet most of the time. A great all-around productivity machine."
+                }
+            ]
         },
         {
             "id": "LAP004",
@@ -69,7 +120,7 @@
             "description": "Compact and powerful gaming laptop with an AniMe Matrix display option.",
             "price": 1649.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/AAA/FFF?text=ASUS+ROG+G14",
+            "imageUrl": "https://i.postimg.cc/x1SdHWyc/download.jpg",
             "features": [
                 "14-inch QHD+ 165Hz Display",
                 "AMD Ryzen 9 7940HS Processor",
@@ -79,7 +130,24 @@
                 "Windows 11 Home"
             ],
             "stock": 55,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "GamerOnTheGo",
+                    "rating": 5,
+                    "comment": "Amazing power in such a small package! Runs all modern games smoothly on the QHD display. The 165Hz refresh rate is fantastic. Love the portability."
+                },
+                {
+                    "reviewer": "Alex B.",
+                    "rating": 4,
+                    "comment": "Great gaming performance and the screen is vibrant. Battery life is okay when not gaming. It can get loud under load, but that's expected."
+                },
+                {
+                    "reviewer": "ContentCreator",
+                    "rating": 5,
+                    "comment": "Handles video editing surprisingly well for a 14-inch gaming laptop. The AniMe Matrix display is a fun gimmick, but the core performance is what shines."
+                }
+            ]
         },
         {
             "id": "MAC001",
@@ -89,7 +157,7 @@
             "description": "Ultra-portable laptop with the power-efficient M2 chip, perfect for everyday tasks and travel.",
             "price": 1099.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/999/FFF?text=MacBook+Air+M2",
+            "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665",
             "features": [
                 "13.6-inch Liquid Retina Display",
                 "Apple M2 Chip (8-core CPU, 8-core GPU)",
@@ -99,7 +167,24 @@
                 "1080p FaceTime HD Camera"
             ],
             "stock": 150,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "Emily Carter",
+                    "rating": 5,
+                    "comment": "The best laptop for students or general use. Incredibly light, silent, amazing battery life, and plenty fast for everything I do. The Midnight color is beautiful."
+                },
+                {
+                    "reviewer": "TechReviewer",
+                    "rating": 5,
+                    "comment": "Apple nailed it again. The M2 chip provides a noticeable boost. The slightly larger display and MagSafe return are welcome additions. Build quality is unmatched."
+                },
+                {
+                    "reviewer": "James P.",
+                    "rating": 4,
+                    "comment": "Fantastic machine. Only downside is the base 8GB RAM/256GB SSD feels a bit limiting in 2024, but for basic tasks, it's perfect. Upgrades are pricey."
+                }
+            ]
         },
         {
             "id": "MAC002",
@@ -109,7 +194,7 @@
             "description": "Professional laptop delivering exceptional performance and battery life with the M3 Pro chip.",
             "price": 1999.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/777/FFF?text=MacBook+Pro+M3+Pro",
+            "imageUrl": "https://i.postimg.cc/Y9j2Mkky/download.jpg",
             "features": [
                 "14.2-inch Liquid Retina XDR Display",
                 "Apple M3 Pro Chip (11-core CPU, 14-core GPU)",
@@ -119,7 +204,24 @@
                 "ProMotion Technology"
             ],
             "stock": 80,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "VideoEditorPro",
+                    "rating": 5,
+                    "comment": "The M3 Pro chip flies through 4K video edits. The XDR display is the best I've ever used on a laptop. Speakers are phenomenal. Worth every penny for professional work."
+                },
+                {
+                    "reviewer": "Developer Dan",
+                    "rating": 5,
+                    "comment": "Compiles code significantly faster than my old Intel MacBook. Battery life is insane, easily lasts a full workday of heavy use. The Space Black color looks amazing."
+                },
+                {
+                    "reviewer": "Sophia L.",
+                    "rating": 4,
+                    "comment": "Incredibly powerful and the display is stunning. It's a bit heavier than the Air, but the performance difference is noticeable. Wish it had more ports without needing a dongle."
+                }
+            ]
         },
         {
             "id": "MAC003",
@@ -129,7 +231,7 @@
             "description": "The ultimate professional laptop with groundbreaking performance for the most demanding workflows.",
             "price": 3499.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/555/FFF?text=MacBook+Pro+M3+Max",
+            "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spaceblack-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697230830199",
             "features": [
                 "16.2-inch Liquid Retina XDR Display",
                 "Apple M3 Max Chip (14-core CPU, 30-core GPU)",
@@ -139,7 +241,24 @@
                 "Up to 22 hours battery life"
             ],
             "stock": 40,
-            "rating": 5.0
+            "rating": 5.0,
+            "reviews": [
+                {
+                    "reviewer": "3D Artist",
+                    "rating": 5,
+                    "comment": "Absolutely demolishes complex 3D renders and simulations. The M3 Max is unbelievable. The large XDR screen is perfect for creative work. Pricey, but unmatched performance."
+                },
+                {
+                    "reviewer": "PowerUser Kate",
+                    "rating": 5,
+                    "comment": "This machine doesn't break a sweat, no matter what I throw at it. Virtual machines, massive datasets, coding, video editing - it handles it all silently and with incredible battery life."
+                },
+                {
+                    "reviewer": "Film Scorer",
+                    "rating": 5,
+                    "comment": "Runs huge Logic Pro sessions with countless plugins flawlessly. The speakers are studio quality. It's expensive, but it's the best portable workstation available."
+                }
+            ]
         },
         {
             "id": "MOB001",
@@ -149,7 +268,7 @@
             "description": "The latest iPhone featuring the A17 Pro chip, Titanium design, and an advanced camera system.",
             "price": 999.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x600/DDE/333?text=iPhone+15+Pro",
+            "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=512&hei=512&fmt=p-jpg&qlt=80&.v=1692845699462",
             "features": [
                 "6.1-inch Super Retina XDR Display",
                 "A17 Pro Chip",
@@ -159,7 +278,24 @@
                 "iOS 17"
             ],
             "stock": 250,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "PhotoFanatic",
+                    "rating": 5,
+                    "comment": "The camera upgrades are fantastic, especially the flexibility of the main sensor. USB-C is finally here! Performance is buttery smooth, and the titanium frame feels great."
+                },
+                {
+                    "reviewer": "Chris G.",
+                    "rating": 4,
+                    "comment": "Solid upgrade. Lighter than the 14 Pro, Action Button is useful. Battery life is good, but not dramatically better. Still the best overall iPhone experience."
+                },
+                {
+                    "reviewer": "TechGeek",
+                    "rating": 5,
+                    "comment": "A17 Pro chip is incredibly fast, games run beautifully. The display is excellent as always. A refined and powerful device."
+                }
+            ]
         },
         {
             "id": "MOB002",
@@ -169,7 +305,7 @@
             "description": "Premium Android phone with integrated S Pen, powerful cameras, and Galaxy AI features.",
             "price": 1299.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x600/CCD/444?text=Galaxy+S24+Ultra",
+            "imageUrl": "https://images.samsung.com/us/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-highlights-kv.jpg",
             "features": [
                 "6.8-inch Dynamic AMOLED 2X QHD+",
                 "Snapdragon 8 Gen 3 for Galaxy",
@@ -179,7 +315,24 @@
                 "Android 14"
             ],
             "stock": 180,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "AndroidFan",
+                    "rating": 5,
+                    "comment": "The flat screen is a welcome change! Camera zoom is incredible, and the AI features are genuinely useful. S Pen integration is seamless as always. The ultimate Android phone."
+                },
+                {
+                    "reviewer": "Lisa T.",
+                    "rating": 4,
+                    "comment": "Massive, beautiful display. Performance is top-tier. Battery easily lasts all day. The AI features are neat but still feel a bit gimmicky sometimes. Very expensive."
+                },
+                {
+                    "reviewer": "NoteUser",
+                    "rating": 5,
+                    "comment": "As a long-time Note user, this is the perfect successor. The S Pen is indispensable. The build quality is excellent with the new titanium frame."
+                }
+            ]
         },
         {
             "id": "MOB003",
@@ -189,7 +342,7 @@
             "description": "Google's flagship phone with exceptional AI camera features and a smooth user experience.",
             "price": 999.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x600/BBD/555?text=Pixel+8+Pro",
+            "imageUrl": "https://i.postimg.cc/KzKKQtKz/images.jpg",
             "features": [
                 "6.7-inch Super Actua LTPO OLED Display",
                 "Google Tensor G3 Chip",
@@ -199,7 +352,24 @@
                 "Android 14"
             ],
             "stock": 120,
-            "rating": 4.6
+            "rating": 4.6,
+            "reviews": [
+                {
+                    "reviewer": "Camera Buff",
+                    "rating": 5,
+                    "comment": "The Pixel camera magic continues! Photos are stunning, and the AI editing tools like Magic Eraser and Best Take are incredible. The 7 years of updates is a huge plus."
+                },
+                {
+                    "reviewer": "Android Purist",
+                    "rating": 4,
+                    "comment": "Clean software experience, fantastic display, and unique features. Performance is good, though maybe not quite as fast as the latest Snapdragon. Camera bump is quite large."
+                },
+                {
+                    "reviewer": "Ben S.",
+                    "rating": 4,
+                    "comment": "Love the flat display on the Pro this year. Call screening and other Pixel-exclusive features are great. Battery life is decent, gets me through a day."
+                }
+            ]
         },
         {
             "id": "MOB004",
@@ -209,7 +379,7 @@
             "description": "Flagship killer phone known for its speed, fast charging, and smooth display.",
             "price": 799.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x600/AAD/666?text=OnePlus+12",
+            "imageUrl": "https://i.postimg.cc/RVx3Q6vS/oneplus-12-2.jpg",
             "features": [
                 "6.82-inch QHD+ ProXDR Display (120Hz)",
                 "Snapdragon 8 Gen 3",
@@ -219,7 +389,24 @@
                 "Aqua Touch Display"
             ],
             "stock": 95,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "Speed Demon",
+                    "rating": 5,
+                    "comment": "This phone is insanely fast! Everything is smooth, apps open instantly. The charging speed is mind-blowing, a full charge in under 30 mins. Great value."
+                },
+                {
+                    "reviewer": "Rachel M.",
+                    "rating": 4,
+                    "comment": "Beautiful display and very responsive. Camera is good, maybe not quite Pixel/Samsung level, but very capable. OxygenOS is clean and fast. Alert slider is always appreciated."
+                },
+                {
+                    "reviewer": "Value Seeker",
+                    "rating": 5,
+                    "comment": "Flagship specs for significantly less money than competitors. Excellent performance, great screen, and unbelievable charging. Hard to beat at this price point."
+                }
+            ]
         },
         {
             "id": "COM001",
@@ -229,7 +416,7 @@
             "description": "All-in-one desktop with a stunning 4.5K Retina display and the powerful M3 chip.",
             "price": 1299.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x500/99C/333?text=iMac+24+M3",
+            "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-blue-selection-hero-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697303852660",
             "features": [
                 "24-inch 4.5K Retina Display",
                 "Apple M3 Chip (8-core CPU, 8-core GPU)",
@@ -240,7 +427,24 @@
                 "Available in multiple colors"
             ],
             "stock": 100,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "Home Office User",
+                    "rating": 5,
+                    "comment": "Perfect for my home office setup. The screen is gorgeous and the M3 chip is more than powerful enough for all my work tasks. Looks great on the desk, love the blue color!"
+                },
+                {
+                    "reviewer": "Family Computer",
+                    "rating": 5,
+                    "comment": "Simple, elegant, and easy for everyone in the family to use. Boots up instantly, runs smoothly. The integrated webcam and speakers are surprisingly good."
+                },
+                {
+                    "reviewer": "Design Student",
+                    "rating": 4,
+                    "comment": "Great display for creative work. Handles Photoshop and Illustrator well. Wish the base model came with 16GB RAM, but 8GB is manageable for most tasks. Port selection is limited."
+                }
+            ]
         },
         {
             "id": "COM002",
@@ -250,7 +454,7 @@
             "description": "High-performance gaming desktop with a focus on thermal management and powerful components.",
             "price": 2199.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/500x600/BBA/555?text=Alienware+R16",
+            "imageUrl": "https://i.postimg.cc/DwB8TxL0/download.jpg",
             "features": [
                 "Intel Core i7-14700KF Processor",
                 "32GB DDR5 RAM",
@@ -260,7 +464,24 @@
                 "Liquid Cooling Option"
             ],
             "stock": 60,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "Hardcore Gamer",
+                    "rating": 5,
+                    "comment": "This thing is a beast! Runs everything I throw at it on max settings in 1440p/4K. Thermals seem much improved over previous models. Looks great too."
+                },
+                {
+                    "reviewer": "Streamer Sam",
+                    "rating": 5,
+                    "comment": "Excellent performance for gaming and streaming simultaneously. The i7 and 4070 Ti combo is fantastic. Runs relatively quiet even under load with the liquid cooling."
+                },
+                {
+                    "reviewer": "Kyle R.",
+                    "rating": 4,
+                    "comment": "Very powerful machine. A bit pricey compared to building your own, but you get the Alienware design and support. Cable management inside is clean."
+                }
+            ]
         },
         {
             "id": "COM003",
@@ -270,7 +491,7 @@
             "description": "Expansive all-in-one PC with a wide 5K display, perfect for multitasking and creative work.",
             "price": 1999.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x500/ABC/456?text=HP+Envy+AIO+34",
+            "imageUrl": "https://i.postimg.cc/3RDR2760/download.jpg",
             "features": [
                 "34-inch WUHD (5K) IPS Display",
                 "Intel Core i7-12700 Processor",
@@ -281,7 +502,24 @@
                 "Detachable Magnetic Camera"
             ],
             "stock": 70,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "Multitasker Pro",
+                    "rating": 5,
+                    "comment": "The 34-inch 5K wide display is a game-changer for productivity. So much screen real estate! Performance is solid for office work and creative tasks. Love the magnetic webcam."
+                },
+                {
+                    "reviewer": "Designer Deb",
+                    "rating": 5,
+                    "comment": "Excellent color accuracy and resolution on the display. Great for photo editing and design work. The all-in-one design keeps my desk clean and clutter-free."
+                },
+                {
+                    "reviewer": "Ethan W.",
+                    "rating": 4,
+                    "comment": "Powerful and stylish AIO. The screen is amazing. Wish it used newer DDR5 RAM, but performance is still very good. Speakers are decent for built-in."
+                }
+            ]
         },
         {
             "id": "SMW001",
@@ -291,7 +529,7 @@
             "description": "The essential Apple Watch with advanced health features, safety functions, and a brighter display.",
             "price": 399.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/300x300/EAC/123?text=Apple+Watch+9",
+            "imageUrl": "https://i.postimg.cc/RVmFJkTq/download.jpg",
             "features": [
                 "S9 SiP Chip",
                 "Brighter Always-On Retina Display",
@@ -301,7 +539,24 @@
                 "watchOS 10"
             ],
             "stock": 300,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "Fitness Enthusiast",
+                    "rating": 5,
+                    "comment": "Tracks workouts accurately, love the brighter display for outdoor runs. The Double Tap feature is surprisingly useful when my hands are full. Seamless integration with iPhone."
+                },
+                {
+                    "reviewer": "Laura B.",
+                    "rating": 5,
+                    "comment": "Upgraded from Series 6 and the speed difference is noticeable thanks to the S9 chip. Screen is much brighter. Essential companion for notifications and health tracking."
+                },
+                {
+                    "reviewer": "Tech Dad",
+                    "rating": 4,
+                    "comment": "Great smartwatch, does everything you expect from an Apple Watch. Battery life still requires daily charging, which is the only minor drawback. Health features are comprehensive."
+                }
+            ]
         },
         {
             "id": "SMW002",
@@ -311,7 +566,7 @@
             "description": "Stylish smartwatch with a rotating bezel, comprehensive health tracking, and Wear OS Powered by Samsung.",
             "price": 399.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/300x300/DAA/456?text=Galaxy+Watch+6",
+            "imageUrl": "https://i.postimg.cc/L6m98zH1/download.jpg",
             "features": [
                 "Rotating Bezel",
                 "Super AMOLED Display",
@@ -321,7 +576,24 @@
                 "Stainless Steel Case"
             ],
             "stock": 220,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "Android User",
+                    "rating": 5,
+                    "comment": "The rotating bezel is back and it's fantastic for navigation! Screen is sharp and bright. Health tracking is extensive. The best Wear OS watch, especially for Samsung phone users."
+                },
+                {
+                    "reviewer": "Classic Style",
+                    "rating": 5,
+                    "comment": "Love the classic watch design with the physical bezel. Feels premium on the wrist. Wear OS runs smoothly, lots of apps available. Great battery life for a Wear OS watch."
+                },
+                {
+                    "reviewer": "Olivia M.",
+                    "rating": 4,
+                    "comment": "Looks great, tracks steps and sleep well. The body composition feature is interesting. Sometimes disconnects from my non-Samsung phone, but reconnects quickly."
+                }
+            ]
         },
         {
             "id": "SMW003",
@@ -331,7 +603,7 @@
             "description": "Elegant smartwatch combining Google's helpfulness with Fitbit's health and fitness tracking.",
             "price": 349.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/300x300/CBA/789?text=Pixel+Watch+2",
+            "imageUrl": "https://i.postimg.cc/Nfbg95MP/download.jpg",
             "features": [
                 "Wear OS 4",
                 "Fitbit Health & Fitness Tracking",
@@ -341,7 +613,24 @@
                 "Stress Management"
             ],
             "stock": 150,
-            "rating": 4.5
+            "rating": 4.5,
+            "reviews": [
+                {
+                    "reviewer": "Fitbit Fan",
+                    "rating": 5,
+                    "comment": "Excellent Fitbit integration, much better than the first Pixel Watch. Performance is smooth, and battery life now easily lasts a full day with AOD. Looks very sleek."
+                },
+                {
+                    "reviewer": "Minimalist Design",
+                    "rating": 4,
+                    "comment": "Beautiful, minimalist design. Wear OS 4 is clean and responsive. Stress tracking features are helpful. Wish the bezels were a bit smaller, but overall a great watch."
+                },
+                {
+                    "reviewer": "Jason T.",
+                    "rating": 4,
+                    "comment": "Significant improvement over the first gen. Faster, better battery, more sensors. The crown feels great. Still uses proprietary bands, which is a bit annoying."
+                }
+            ]
         },
         {
             "id": "SMW004",
@@ -351,7 +640,7 @@
             "description": "Premium multisport GPS watch with solar charging, advanced training metrics, and built-in flashlight.",
             "price": 799.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/300x300/BAC/ABC?text=Garmin+Fenix+7+Pro",
+            "imageUrl": "https://i.postimg.cc/Dz4FM6ct/download.jpg",
             "features": [
                 "Solar Charging Lens (Pro Solar models)",
                 "Built-in LED Flashlight",
@@ -361,7 +650,24 @@
                 "Up to 22 days battery life (smartwatch mode)"
             ],
             "stock": 85,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "Ultra Runner",
+                    "rating": 5,
+                    "comment": "The ultimate GPS watch for serious athletes. Battery life is phenomenal, especially with solar. GPS accuracy is spot-on. The flashlight is surprisingly useful on night runs."
+                },
+                {
+                    "reviewer": "Outdoor Adventurer",
+                    "rating": 5,
+                    "comment": "Built like a tank, packed with features for hiking, skiing, and more. Mapping is excellent. The new training metrics provide great insights. Expensive, but worth it for the features."
+                },
+                {
+                    "reviewer": "Data Junkie",
+                    "rating": 4,
+                    "comment": "Incredible amount of data and customization. Touchscreen is responsive, but buttons are great for workouts. The Garmin ecosystem is robust. Steep learning curve for all features."
+                }
+            ]
         },
         {
             "id": "TAB001",
@@ -371,7 +677,7 @@
             "description": "The ultimate iPad experience with the powerful M2 chip, Liquid Retina XDR display, and pro features.",
             "price": 1099.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/500x400/DEF/123?text=iPad+Pro+12.9",
+            "imageUrl": "https://i.postimg.cc/jq4TmLzd/download.jpg",
             "features": [
                 "12.9-inch Liquid Retina XDR Display",
                 "Apple M2 Chip",
@@ -381,7 +687,24 @@
                 "iPadOS 17"
             ],
             "stock": 130,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "Digital Artist",
+                    "rating": 5,
+                    "comment": "The mini-LED XDR display is unbelievable for drawing and painting. M2 chip makes Procreate and other art apps fly. Apple Pencil Hover is a subtle but great addition."
+                },
+                {
+                    "reviewer": "Laptop Replacer",
+                    "rating": 4,
+                    "comment": "With the Magic Keyboard, this is very close to a laptop replacement for many tasks. Screen is gorgeous, performance is desktop-class. iPadOS still has some limitations compared to macOS."
+                },
+                {
+                    "reviewer": "Media Consumption King",
+                    "rating": 5,
+                    "comment": "Best tablet screen for watching movies, period. HDR content looks stunning. Speakers are loud and clear. Battery life is excellent. Expensive, but the best tablet experience."
+                }
+            ]
         },
         {
             "id": "TAB002",
@@ -391,7 +714,7 @@
             "description": "Massive and powerful Android tablet with a stunning AMOLED display and S Pen included.",
             "price": 1199.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/500x400/CDE/456?text=Galaxy+Tab+S9+Ultra",
+            "imageUrl": "https://i.postimg.cc/kgBd2sLB/download.jpg",
             "features": [
                 "14.6-inch Dynamic AMOLED 2X Display",
                 "Snapdragon 8 Gen 2 for Galaxy",
@@ -401,7 +724,24 @@
                 "Android 13 (Upgradable)"
             ],
             "stock": 90,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "Power User",
+                    "rating": 5,
+                    "comment": "The 14.6-inch AMOLED screen is incredible for multitasking and media. Performance is flagship-level. The included S Pen feels great. DeX mode provides a decent desktop experience."
+                },
+                {
+                    "reviewer": "Content Viewer",
+                    "rating": 5,
+                    "comment": "Absolutely stunning display, perfect for movies and comics. Speakers are loud and immersive. It's huge, which is great for viewing but less portable."
+                },
+                {
+                    "reviewer": "Productivity Pro",
+                    "rating": 4,
+                    "comment": "Great for taking notes and drawing with the S Pen. Multitasking is smooth with the large screen. Android apps are still not always perfectly optimized for tablets compared to iPadOS."
+                }
+            ]
         },
         {
             "id": "TAB003",
@@ -411,7 +751,7 @@
             "description": "Versatile 2-in-1 device combining laptop power with tablet flexibility, running Windows 11.",
             "price": 999.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/500x400/BCD/789?text=Surface+Pro+9",
+            "imageUrl": "https://i.postimg.cc/ZKsGz30Z/download.jpg",
             "features": [
                 "13-inch PixelSense Flow Display (120Hz)",
                 "Intel Core i5/i7 (12th Gen) or Microsoft SQ3 (ARM)",
@@ -421,7 +761,24 @@
                 "Optional Surface Slim Pen 2 & Signature Keyboard"
             ],
             "stock": 115,
-            "rating": 4.6
+            "rating": 4.6,
+            "reviews": [
+                {
+                    "reviewer": "Mobile Professional",
+                    "rating": 5,
+                    "comment": "The best Windows tablet/2-in-1. Excellent build quality, great screen with 120Hz. Runs full Windows apps, which is a major advantage. Keyboard and Pen are essential adds (and extra cost)."
+                },
+                {
+                    "reviewer": "Student",
+                    "rating": 4,
+                    "comment": "Very versatile for classes. Great for note-taking with the pen and typing papers with the keyboard. Battery life is good, but not amazing. Wish the accessories were included."
+                },
+                {
+                    "reviewer": "Windows Fan",
+                    "rating": 4,
+                    "comment": "Solid performance from the Intel chip. The kickstand is fantastic. Tablet experience in Windows 11 is better but still not as fluid as iPadOS. Great hardware though."
+                }
+            ]
         },
         {
             "id": "HDP001",
@@ -431,7 +788,7 @@
             "description": "Industry-leading noise-canceling headphones with exceptional sound quality and comfort.",
             "price": 399.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x400/ABC/DEF?text=Sony+WH1000XM5",
+            "imageUrl": "https://i.postimg.cc/ydTGQ32M/download.jpg",
             "features": [
                 "Industry-Leading Noise Cancellation",
                 "Integrated Processor V1",
@@ -441,7 +798,24 @@
                 "Lightweight Design"
             ],
             "stock": 200,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "Frequent Flyer",
+                    "rating": 5,
+                    "comment": "The noise cancellation is simply magical. Silences plane engines completely. Sound quality is superb, and they are incredibly comfortable for long flights. Multipoint connection is seamless."
+                },
+                {
+                    "reviewer": "Audiophile",
+                    "rating": 5,
+                    "comment": "Excellent, balanced sound signature with great detail. ANC is top-tier. The redesign is lighter and more comfortable than the XM4s, although they don't fold as small."
+                },
+                {
+                    "reviewer": "Commuter",
+                    "rating": 4,
+                    "comment": "Blocks out train and city noise brilliantly. Call quality is also significantly improved. Battery life is amazing. Price is high, but worth it for the ANC and sound."
+                }
+            ]
         },
         {
             "id": "HDP002",
@@ -451,7 +825,7 @@
             "description": "Premium noise-canceling headphones with immersive audio and unparalleled comfort.",
             "price": 429.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x400/BCA/EF1?text=Bose+QC+Ultra",
+            "imageUrl": "https://i.postimg.cc/BZMy2DTD/download.jpg",
             "features": [
                 "World-Class Noise Cancellation",
                 "Bose Immersive Audio",
@@ -461,7 +835,24 @@
                 "Plush Materials"
             ],
             "stock": 160,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "Comfort Seeker",
+                    "rating": 5,
+                    "comment": "Bose comfort is legendary, and these are no exception. Can wear them for hours. Noise cancellation is fantastic, perhaps slightly better than Sony for certain frequencies. Aware mode sounds very natural."
+                },
+                {
+                    "reviewer": "Sound Enthusiast",
+                    "rating": 4,
+                    "comment": "Great ANC and incredibly comfortable. Sound quality is good, very clear, maybe slightly less bass-heavy than Sony by default. Immersive Audio is a cool feature, though situational."
+                },
+                {
+                    "reviewer": "Office Worker",
+                    "rating": 5,
+                    "comment": "Perfect for focusing in a noisy office. They are so comfortable I forget I'm wearing them. Call quality is excellent. Build quality feels very premium."
+                }
+            ]
         },
         {
             "id": "HDP003",
@@ -471,7 +862,7 @@
             "description": "Wireless earbuds with enhanced Active Noise Cancellation, Adaptive Transparency, and Personalized Spatial Audio.",
             "price": 249.00,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x400/CAB/F1E?text=AirPods+Pro+2",
+            "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985",
             "features": [
                 "H2 Apple Chip",
                 "Active Noise Cancellation (up to 2x more)",
@@ -481,7 +872,24 @@
                 "Sweat and Water Resistant (IPX4)"
             ],
             "stock": 400,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "iPhone User",
+                    "rating": 5,
+                    "comment": "Seamless integration with the Apple ecosystem. ANC is significantly improved over Gen 1. Adaptive Transparency is brilliant. Sound quality is great for earbuds. The case speaker is handy."
+                },
+                {
+                    "reviewer": "Daily Driver",
+                    "rating": 5,
+                    "comment": "Use these everyday for calls, music, podcasts. Comfortable fit, great sound, and the ANC is surprisingly effective for such small buds. USB-C charging case is a plus."
+                },
+                {
+                    "reviewer": "Gym Goer",
+                    "rating": 4,
+                    "comment": "Stay secure during workouts, sweat resistance is good. ANC blocks out gym noise well. Sound is good but maybe not as rich as some over-ear headphones. Convenience is unbeatable."
+                }
+            ]
         },
         {
             "id": "CON001",
@@ -491,7 +899,7 @@
             "description": "Next-generation gaming console with ultra-fast SSD, immersive DualSense controller, and stunning 4K graphics.",
             "price": 499.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/0070D1/FFFFFF?text=PS5+Slim",
+            "imageUrl": "https://i.postimg.cc/zGRcmc9S/download.jpg",
             "features": [
                 "Ultra-High Speed SSD",
                 "Ray Tracing Support",
@@ -501,7 +909,24 @@
                 "Tempest 3D AudioTech"
             ],
             "stock": 120,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "PS Fan",
+                    "rating": 5,
+                    "comment": "Incredible loading speeds thanks to the SSD. The DualSense controller is a game-changer, makes games so much more immersive. Great library of exclusive games."
+                },
+                {
+                    "reviewer": "NextGenGamer",
+                    "rating": 5,
+                    "comment": "Stunning graphics, especially on a 4K TV. Games run smoothly at high frame rates. The Slim model looks much better and fits easier in my entertainment center."
+                },
+                {
+                    "reviewer": "Casual Player",
+                    "rating": 4,
+                    "comment": "Great console, very fast and powerful. The UI is clean. Wish there was more internal storage available out of the box, but it's expandable. DualSense haptics are impressive."
+                }
+            ]
         },
         {
             "id": "CON002",
@@ -511,7 +936,7 @@
             "description": "The most powerful Xbox ever, built for speed, performance, and compatibility.",
             "price": 499.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/400x600/107C10/FFFFFF?text=Xbox+Series+X",
+            "imageUrl": "https://i.postimg.cc/qMW1GGzt/download.jpg",
             "features": [
                 "Custom 1TB NVME SSD",
                 "True 4K Gaming (Up to 120 FPS)",
@@ -521,7 +946,24 @@
                 "Backward Compatibility (Thousands of games)"
             ],
             "stock": 110,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "Game Pass Lover",
+                    "rating": 5,
+                    "comment": "The best value in gaming with Game Pass. Huge library of games available day one. Console is incredibly powerful and quiet. Quick Resume is fantastic."
+                },
+                {
+                    "reviewer": "Performance Seeker",
+                    "rating": 5,
+                    "comment": "Noticeably powerful, games look and run beautifully in 4K/120fps where supported. Load times are super fast. Great backwards compatibility support."
+                },
+                {
+                    "reviewer": "Multiplatform Gamer",
+                    "rating": 4,
+                    "comment": "Excellent hardware. Game Pass is a huge draw. Controller is comfortable but lacks the innovation of the DualSense. Great console for multiplatform games."
+                }
+            ]
         },
         {
             "id": "CON003",
@@ -531,7 +973,7 @@
             "description": "Versatile hybrid console with a vibrant 7-inch OLED screen for handheld and TV play.",
             "price": 349.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x400/E60012/FFFFFF?text=Switch+OLED",
+            "imageUrl": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.0/c_scale,w_1200/ncom/en_US/switch/site-design-update/oled-model-promo",
             "features": [
                 "7-inch OLED Screen",
                 "Three Modes: TV, Tabletop, Handheld",
@@ -541,7 +983,24 @@
                 "Wide Adjustable Stand"
             ],
             "stock": 250,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "Nintendo Fanatic",
+                    "rating": 5,
+                    "comment": "The OLED screen is a huge upgrade for handheld play. Colors pop and blacks are deeper. Perfect for Nintendo's unique first-party games. Love the versatility."
+                },
+                {
+                    "reviewer": "Family Gamer",
+                    "rating": 5,
+                    "comment": "Great console for the whole family. Easy to switch between TV and handheld. Excellent library of fun, accessible games. The improved kickstand on the OLED is much better."
+                },
+                {
+                    "reviewer": "Indie Game Player",
+                    "rating": 4,
+                    "comment": "The vibrant OLED screen makes indie games look fantastic in handheld mode. Still wish it had more power for demanding third-party ports, but it's great for what it is. Internal storage is still small."
+                }
+            ]
         },
         {
             "id": "MON001",
@@ -551,7 +1010,7 @@
             "description": "27-inch 4K UHD monitor with IPS Black technology for outstanding color and contrast, ideal for professionals.",
             "price": 579.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x500/BFC/333?text=Dell+U2723QE",
+            "imageUrl": "https://i.postimg.cc/cCgQKV7F/download.jpg",
             "features": [
                 "27-inch 4K UHD (3840 x 2160)",
                 "IPS Black Technology",
@@ -561,7 +1020,24 @@
                 "ComfortView Plus (Low Blue Light)"
             ],
             "stock": 95,
-            "rating": 4.8
+            "rating": 4.8,
+            "reviews": [
+                {
+                    "reviewer": "Graphic Designer",
+                    "rating": 5,
+                    "comment": "Fantastic color accuracy and contrast thanks to IPS Black. Perfect for design work. The 4K resolution on a 27-inch screen is super sharp. USB-C hub is very convenient."
+                },
+                {
+                    "reviewer": "Productivity Powerhouse",
+                    "rating": 5,
+                    "comment": "Excellent monitor for office work and coding. Sharp text, great connectivity options including 90W power delivery via USB-C. The stand is highly adjustable."
+                },
+                {
+                    "reviewer": "Mac User",
+                    "rating": 4,
+                    "comment": "Pairs perfectly with a MacBook via USB-C. Charges the laptop and handles display output with one cable. Colors are great. HDR performance is okay, not amazing."
+                }
+            ]
         },
         {
             "id": "MON002",
@@ -571,7 +1047,7 @@
             "description": "27-inch QHD gaming monitor with high refresh rate and fast response time for smooth gameplay.",
             "price": 399.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/600x500/A0B/444?text=LG+27GP850-B",
+            "imageUrl": "https://i.postimg.cc/rmdjBhZ2/download.jpg",
             "features": [
                 "27-inch QHD (2560 x 1440) Nano IPS",
                 "165Hz Refresh Rate (O/C 180Hz)",
@@ -581,7 +1057,24 @@
                 "HDR10 Support"
             ],
             "stock": 130,
-            "rating": 4.7
+            "rating": 4.7,
+            "reviews": [
+                {
+                    "reviewer": "FPS Gamer",
+                    "rating": 5,
+                    "comment": "Super smooth gameplay with the high refresh rate and fast response time. QHD resolution is the sweet spot for 27 inches. G-Sync compatibility works flawlessly."
+                },
+                {
+                    "reviewer": "All-Around User",
+                    "rating": 5,
+                    "comment": "Great colors thanks to the Nano IPS panel. Excellent for gaming but also good for general use and watching videos. Good value for a high-refresh QHD IPS monitor."
+                },
+                {
+                    "reviewer": "Chris P.",
+                    "rating": 4,
+                    "comment": "Very fast and responsive monitor. Colors look vibrant. Contrast ratio isn't the best (typical for IPS), but black levels are acceptable. Stand is decent but takes up some desk space."
+                }
+            ]
         },
         {
             "id": "MON003",
@@ -591,7 +1084,7 @@
             "description": "Expansive 57-inch Dual UHD curved gaming monitor with Quantum Mini-LED technology.",
             "price": 2499.99,
             "currency": "USD",
-            "imageUrl": "https://placehold.co/700x400/9AB/555?text=Samsung+Neo+G9",
+            "imageUrl": "https://i.postimg.cc/sg9Nm0qn/download.jpg",
             "features": [
                 "57-inch Dual UHD (7680x2160)",
                 "Quantum Mini-LED (Quantum HDR 2000)",
@@ -601,7 +1094,24 @@
                 "AMD FreeSync Premium Pro"
             ],
             "stock": 30,
-            "rating": 4.9
+            "rating": 4.9,
+            "reviews": [
+                {
+                    "reviewer": "Immersion Seeker",
+                    "rating": 5,
+                    "comment": "Absolutely breathtaking monitor. The size and curvature completely fill your vision. Mini-LED provides incredible brightness and contrast. Gaming on this is unreal."
+                },
+                {
+                    "reviewer": "Bleeding Edge Tech",
+                    "rating": 5,
+                    "comment": "The first Dual UHD 240Hz monitor! Requires an absolute top-tier GPU to drive, but the visual experience is unmatched. HDR performance is phenomenal. Truly next-level."
+                },
+                {
+                    "reviewer": "Productivity Monster",
+                    "rating": 4,
+                    "comment": "Incredible screen real estate for productivity, like having two 4K monitors side-by-side without the bezel. Very expensive and requires a deep desk. But wow, what a display."
+                }
+            ]
         }
     ]
 }
