@@ -17,19 +17,19 @@ const SingleProduct = ({ oneProduct }) => {
         <IoIosStar /><IoIosStar /><IoIosStarHalf /><IoIosStarOutline />
     </>
     return (
-        <div>
-            <div className='relative text-center pt-6 md:pt-12 pb-50 md:pb-56 bg-[#9538E2] rounded-lg'>
-                <div className=' md:w-8/12 mx-auto space-y-2 md:space-y-4 text-white  px-2'>
+        <div className='mb-[700px] md:mb-74'>
+            <div className='relative text-center pt-6 md:pt-12 pb-50 md:pb-56 bg-[#9538E2] rounded-lg '>
+                <div className=' md:w-8/12 mx-auto space-y-2 md:space-y-4 text-white  px-2 '>
                     <h2 className='text-2xl md:text-4xl font-semibold'>Product Detail</h2>
                     <p className='text-sm md:text-base'>Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all! This Product Unique id Number: {id}
                     </p>
                     <button onClick={() => navigate(-1)} className='btn rounded-4xl'>Back</button>
                 </div>
-                <div className='absolute bg-white top-56 md:top-56 left-0 right-0 mx-auto w-10/12 flex flex-col md:flex-row items-center gap-4 p-2 md:p-6 rounded-xl'>
+                <div className='absolute bg-white top-56 md:top-56 left-0 right-0 mx-auto w-10/12 flex flex-col md:flex-row items-center gap-4 p-2 md:p-6 rounded-xl border-2 border-gray-300'>
                     <div className='bg-[#ECECEC] p-4 rounded-xl'>
                         <img className='h-54 md:w-74 mx-auto object-cover' src={imageUrl} alt="" />
                     </div>
-                    <div className='text-justify space-y-1.5'>
+                    <div className='text-justify space-y-1.5 '>
                         <h3 className='text-xl font-semibold'>{name}</h3>
                         <p className='font-semibold'>Price: ${price}</p>
                         <button className='btn btn-sm border-[#9538E2] text-[#9538E2] rounded-4xl hover:bg-[#9538E2] hover:text-white '>Stock: {stock}</button>
